@@ -1,0 +1,9 @@
+# Directories
+.vs/
+bin/
+bin-int/
+assets/
+*user
+*.dll
+*.bat
+*.ini
