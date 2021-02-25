@@ -52,7 +52,7 @@ void Chunk::InitRenderer()
 
 void Chunk::Render(const glm::mat4& pv)
 {
-	if (!Frustum::PlaneIntersection(m_World->m_PVMatrix, position, 16)) return;
+	if (!Frustum::PlaneIntersection(m_World->m_PVMatrix, position, 20)) return;
 	m_VAO.Bind();
 	m_VBO.Bind();
 	m_IBO.Bind();
