@@ -1,4 +1,4 @@
-#Minecraft Week 
+#Minecraft Week (more like a few hours spread in five days where I had no internet)
 ![terrain_screenshot](Screenshots/terrain.jpg)
 
 #### Features:
