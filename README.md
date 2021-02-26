@@ -1,4 +1,4 @@
 #Minecraft Week 
-![terrain_screenshot](screenshots/terrain.jpg)
+![terrain_screenshot](Screenshots/terrain.jpg)
 
-![wooden_house](screenshots/woodenhouse.png)
+![wooden_house](Screenshots/woodenhouse.png)
