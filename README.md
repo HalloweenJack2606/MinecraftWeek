@@ -3,6 +3,7 @@
 
 #### Features:
  - Infinite terrain generation
+ - Multi-Threaded chunk loading
  - Frustum Culling
  - Chunk Batching System (16x256x16)
  - Placing & Breaking blocks using raycasting
