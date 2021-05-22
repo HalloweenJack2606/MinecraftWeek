@@ -1,4 +1,4 @@
-#Minecraft Week (more like a few hours spread in five days where I had no internet)
+# Minecraft Week (more like a few hours spread in five days where I had no internet)
 ![terrain_screenshot](Screenshots/terrain.jpg)
 
 #### Features:
@@ -16,8 +16,8 @@ There are a few libraries which are required to build this project.
  - GLM
  - SOIL
 
-It might not work when building with some compilers since it includes <mutex>, which is not supported by a few. All the multi-threading is disabled (World::ChunkLoading() but still works perfectly, already tested it), it would still be necessary to remove the related includes. Visual Studios's MsBuild should work perfectly.
+It might not work when building with some compilers since it includes mutex, which is not supported by a few. All the multi-threading is disabled (World::ChunkLoading() but still works perfectly, already tested it), it would still be necessary to remove the related includes. Visual Studios's MsBuild should work perfectly.
   
-The .exe should be inside 'bin/Release-x64/Game'. Only works for Window at the time of writing.
+The .exe should be inside 'bin/Release-x64/Game'. Only works for Windows at the time of writing.
 
 ![wooden_house](Screenshots/woodenhouse.png)
